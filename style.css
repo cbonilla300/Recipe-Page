@@ -117,6 +117,8 @@ th {
 td {
     color: hsl(14, 45%, 36%);
     font-weight: 700;
+    width: 50%;
+    padding-left: 10px;
     /* border-bottom: 1px solid black; */
 }
 
